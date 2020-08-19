@@ -38,6 +38,7 @@ Thank you! 🎉
 - **[March 27 - $3,133.7]** [$3133.7 Google Bug Bounty Writeup- XSS Vulnerability!](https://pethuraj.com/blog/google-bug-bounty-writeup/) by [Pethuraj M](https://twitter.com/itsmepethu)
 - **[March 8 - $6,000]** [The unexpected Google wide domain check bypass](https://bugs.xdavidhu.me/google/2020/03/08/the-unexpected-google-wide-domain-check-bypass/) by [David Schütz](https://twitter.com/xdavidhu)
 - **[Jan 12 - $???]** [Information Disclosure Vulnerability in the Google Cloud Speech-to-Text API](https://www.dcine.com/2020/01/12/information-disclosure-vulnerability-in-the-google-cloud-speech-to-text-api/) by [Dan Maas](https://www.linkedin.com/in/dan-maas-66b2a045/)
+- **[Aug18 - $???]** [How to contact Google SRE: Dropping a shell in cloud SQL](https://offensi.com/2020/08/18/how-to-contact-google-sre-dropping-a-shell-in-cloud-sql/)
 
 ### 2019:
 
